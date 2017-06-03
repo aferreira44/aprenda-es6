@@ -48,4 +48,44 @@ helloWorld.text = 'Bye Bye React';
 [Array.prototype.map() - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 [map(), filter() e reduce() em JavaScript](http://desenvolvimentoparaweb.com/javascript/map-filter-reduce-javascript/)
 
+### ES6 Arrow Functions
+
+- **Sintaxe:**
+
+```js
+// function expression
+function () { ... }
+
+// arrow function expression
+() => { ... }
+```
+
+**Atenção:** Ficar atento para o comportamento do objeto `this` em uma arrow function
+
+- **Parêntesis e argumentos:**
+
+- Quando houver um só argumento na função, o uso de parêntesis não é obrigatório
+- Quando houver mais de um argumento, o uso de parêntesis é obrigatório
+
+```js
+//permitido
+item => { ... }
+
+// permitido
+(item) => { ... }
+
+// não permitido
+item, key => { ... }
+
+// permitido
+(item, key) => { ... }
+```
+
+- **Block body e concise body:**
+
+- Block body: Utiliza o `return { ... }` após a declaração da arrow function
+- Concise body: Não utiliza o `return { ... }` após a declaração da arrow function
+
+[Arrow Functions - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
 ## Referências
