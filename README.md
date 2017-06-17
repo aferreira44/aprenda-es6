@@ -88,4 +88,20 @@ item, key => { ... }
 
 [Arrow Functions - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
+- **Conceitos de Javascript por trás do React**
+
+Object.assign()
+Object.freeze()
+spread operator (...this.state.object)
+
+Component and PureComponent
+
+setState()
+
+Arrays são Objects
+
+Evitar métodos mutáveis de arrays: push, pop, shift, unshift, splice, sort, reverse
+
+Usar métodos imutáveis de array que retornam um novo array ou novo objeto: map, filter, reduce, every, some, slice
+
 ## Referências
