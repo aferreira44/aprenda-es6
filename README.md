@@ -100,4 +100,12 @@ item, key => { ... }
 
 [String.prototype.includes()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
 
+### High-Order Functions
+
+[High-Order Functions](https://en.wikipedia.org/wiki/Higher-order_function)
+
+### Destructuring assignment
+
+[Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
 ## Referências
