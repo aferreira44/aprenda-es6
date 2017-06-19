@@ -88,20 +88,12 @@ item, key => { ... }
 
 [Arrow Functions - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
-- **Conceitos de Javascript por trás do React**
+### Classes
 
-Object.assign()
-Object.freeze()
-spread operator (...this.state.object)
+[ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
-Component and PureComponent
+### Object Initializer
 
-setState()
-
-Arrays são Objects
-
-Evitar métodos mutáveis de arrays: push, pop, shift, unshift, splice, sort, reverse
-
-Usar métodos imutáveis de array que retornam um novo array ou novo objeto: map, filter, reduce, every, some, slice
+[Object Initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
 
 ## Referências
