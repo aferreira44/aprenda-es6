@@ -96,4 +96,8 @@ item, key => { ... }
 
 [Object Initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
 
+### String Methods
+
+[String.prototype.includes()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
+
 ## Referências
