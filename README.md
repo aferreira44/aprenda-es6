@@ -112,4 +112,17 @@ item, key => { ... }
 
 [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 
+### Template Strings
+
+[ES6 template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+### Fetch API
+
+[Native Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
+Alternatives:
+
+- [visionmedia/superagent](https://github.com/visionmedia/superagent)
+- [mzabriskie/axios](https://github.com/mzabriskie/axios)
+
 ## Referências
