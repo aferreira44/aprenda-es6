@@ -125,4 +125,12 @@ Alternatives:
 - [visionmedia/superagent](https://github.com/visionmedia/superagent)
 - [mzabriskie/axios](https://github.com/mzabriskie/axios)
 
+### Object.assign()
+
+[Object.assign()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+
+### Spread syntax
+
+[Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
 ## Referências
