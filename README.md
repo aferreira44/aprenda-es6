@@ -115,7 +115,8 @@ item, key => { ... }
 
 ### Template Strings
 
-[ES6 template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+[ES6 template strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
 
 ### Fetch API
 
@@ -133,5 +134,11 @@ Alternatives:
 ### Spread syntax
 
 [Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+
+### Modules
+
+[ES6 export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+
+[ES6 import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 
 ## Referências
